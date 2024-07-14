@@ -1,0 +1,8 @@
+{
+  "name": "flutter",
+  "color": "#00FF00",
+  "showTutorial": false,
+  "scopes": [
+   "feat", "fix"
+  ]
+}
